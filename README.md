@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Usama Raheel" width="100%" />
+<img src="header.svg" alt="Usama Raheel" width="100%" />
 
 # Usama Raheel
 
