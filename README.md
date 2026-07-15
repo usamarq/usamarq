@@ -27,7 +27,6 @@ AI/ML engineer with four years of industry experience before an MSc in Computer 
 | --- | --- | --- |
 | **[recipe-rag-nlp](https://github.com/usamarq/recipe-rag-nlp)** | Retrieval-augmented search over 500K+ recipes (BM25 + Sentence-BERT + hybrid). NDCG@k 0.95, MRR 1.0. | Sole author |
 | **[BloomOulu](https://github.com/hsn07pk/BloomOulu)** | Multilingual digital platform for the Oulu Botanical Garden with a source-cited RAG chat guide (GrowthHack 2026). | Built the React front end and the AI chat guide. Team project with [@hsn07pk](https://github.com/hsn07pk) and others |
-| **[Looking Glass](https://github.com/hsn07pk/looking-glass)** | Natural-language search over security-camera footage with real-time alerts (Springineering 2026). | Designed the CV pipeline; built the FastAPI backend and React UI. Team project with [@hsn07pk](https://github.com/hsn07pk) |
 | **[steam-games-analysis-bdpa](https://github.com/usamarq/steam-games-analysis-bdpa)** | PySpark analysis of 97,405 games; Random Forest explaining 69% of variance in success. | Sole author |
 | **[diabetic-retinopathy](https://github.com/usamarq/deep_learning_approach_to_detect_diabetic_retinopathy)** | Modular deep-learning pipeline (Grad-CAM, attention, ensembles) on DeepDRiD. | Sole author |
 | **[UBISS 2026: Robotics](https://github.com/usamarq/ubiss-2026-workshop-a)** | Leader-follower multi-robot system using only ultrasonic sensing (UbiComp Summer School). | Implemented the control logic in CircuitPython |
